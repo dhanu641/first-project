@@ -1,0 +1,16 @@
+#item1{
+    background-image: url('../3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height:500px;
+    width: 100%;
+}
+#item2{
+    background-image: url('../7.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height:500px;
+    width: 100%;
+}
